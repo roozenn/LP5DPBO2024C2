@@ -1,10 +1,7 @@
 # LP5DPBO2024C2
 
 **PADA PROGRAM INI TERDAPAT CLASS MAHASISWA YANG BERISI:**
-nim
-nama
-jenis kelamin
-peminatan
+nim, nama, jenis kelamin, peminatan
 
 
 **TAMPILAN AWAL:**
