@@ -6,18 +6,23 @@ nama
 jenis kelamin
 peminatan
 
+
 TAMPILAN AWAL
-![tampilan-awal](https://github.com/roozenn/LP5DPBO2024C2/assets/151520468/24574733-68a7-430d-bea5-8a4fdf7b83ee)
+![image](https://github.com/roozenn/LP5DPBO2024C2/assets/151520468/1a73b925-61b7-4fc1-9bc1-9e0872cd217c)
+
 
 COMPONENT YANG DI TAMBAHKAN
-![pilihan-peminatan](https://github.com/roozenn/LP5DPBO2024C2/assets/151520468/e42cdff4-fe39-4630-8e0f-71dce5cf4238)
+![image](https://github.com/roozenn/LP5DPBO2024C2/assets/151520468/a3db2750-d1b7-4071-bbd5-74285d61c3e1)
+
 
 FITUR TAMBAH 
-![tambah](https://github.com/roozenn/LP5DPBO2024C2/assets/151520468/f91a89b5-0c7f-4ddb-88ef-0d34e67e7e43)
+![image](https://github.com/roozenn/LP5DPBO2024C2/assets/151520468/3940844b-1c1c-4f22-b227-e48b724d4288)
+
 
 FITUR UBAH
-![ubah](https://github.com/roozenn/LP5DPBO2024C2/assets/151520468/a13c2081-ac8b-42fe-8f2f-aee081848e15)
+![image](https://github.com/roozenn/LP5DPBO2024C2/assets/151520468/5b7b2338-33bd-4a94-8401-7cfbde9e41b4)
+
 
 FITUR HAPUS(PESAN KONFIRMASI)
-![pertanyaan-hapus](https://github.com/roozenn/LP5DPBO2024C2/assets/151520468/556e4369-f901-4b41-9f78-fbeeda55274c)
-![hapus](https://github.com/roozenn/LP5DPBO2024C2/assets/151520468/dd2520d2-5422-41a2-a24b-28446dc9d912)
+![image](https://github.com/roozenn/LP5DPBO2024C2/assets/151520468/fd622d3b-adaf-4d6d-a202-621c65a83d42)
+![image](https://github.com/roozenn/LP5DPBO2024C2/assets/151520468/c9272b92-c4a3-4f00-a589-9a04090c463a)
